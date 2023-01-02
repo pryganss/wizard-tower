@@ -148,4 +148,16 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
+<<<<<<< HEAD
   m_Constraints: 0
+=======
+<<<<<<< HEAD
+  m_Constraints: 0
+=======
+<<<<<<< HEAD
+  m_Constraints: 0
+=======
+  m_Constraints: 4
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)

@@ -14,12 +14,33 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     x: 1920
     y: 0
     width: 1920
     height: 842
   m_ShowMode: 4
   m_Title: Game
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+    x: 0
+    y: 0
+    width: 1920
+    height: 995
+  m_ShowMode: 4
+  m_Title: Project
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -44,11 +65,31 @@ MonoBehaviour:
     x: 0
     y: 30
     width: 1920
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     height: 792
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
   controlID: 73
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+    height: 945
+  m_MinSize: {x: 300, y: 200}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 16
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -67,9 +108,27 @@ MonoBehaviour:
     x: 1466
     y: 0
     width: 454
+<<<<<<< HEAD
     height: 792
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+<<<<<<< HEAD
+    height: 792
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+=======
+<<<<<<< HEAD
+    height: 792
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+=======
+    height: 945
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -92,8 +151,23 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 361
     height: 468
+=======
+<<<<<<< HEAD
+    width: 361
+    height: 468
+=======
+<<<<<<< HEAD
+    width: 361
+    height: 468
+=======
+    width: 360
+    height: 558
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -117,9 +191,27 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 468
     width: 1466
     height: 324
+=======
+<<<<<<< HEAD
+    y: 468
+    width: 1466
+    height: 324
+=======
+<<<<<<< HEAD
+    y: 468
+    width: 1466
+    height: 324
+=======
+    y: 558
+    width: 1466
+    height: 387
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 12}
@@ -149,7 +241,19 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1920
+<<<<<<< HEAD
     height: 842
+=======
+<<<<<<< HEAD
+    height: 842
+=======
+<<<<<<< HEAD
+    height: 842
+=======
+    height: 995
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -194,7 +298,19 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 822
+=======
+<<<<<<< HEAD
+    y: 822
+=======
+<<<<<<< HEAD
+    y: 822
+=======
+    y: 975
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     width: 1920
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -219,11 +335,31 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1466
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     height: 792
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
   controlID: 74
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+    height: 945
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 16192, y: 16192}
+  vertical: 1
+  controlID: 17
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,11 +380,31 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1466
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     height: 468
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
   controlID: 75
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+    height: 558
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 18
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -259,11 +415,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
   m_Name: SceneView
+=======
+<<<<<<< HEAD
+  m_Name: SceneView
+=======
+<<<<<<< HEAD
+  m_Name: SceneView
+=======
+  m_Name: GameView
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     x: 361
     y: 0
     width: 1105
@@ -276,6 +451,26 @@ MonoBehaviour:
   - {fileID: 16}
   m_Selected: 0
   m_LastSelected: 1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+    x: 360
+    y: 0
+    width: 1106
+    height: 558
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 15}
+  - {fileID: 16}
+  m_Selected: 1
+  m_LastSelected: 0
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -296,10 +491,29 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     x: 1920
     y: 525
     width: 1465
     height: 303
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+    x: 0
+    y: 577
+    width: 1465
+    height: 366
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -317,22 +531,70 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Scenes
+=======
+<<<<<<< HEAD
+    - Assets/Scenes
+=======
+<<<<<<< HEAD
+    - Assets/Scenes
+=======
+    - Assets/Scripts
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
   - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /home/ryan/Projects/Unity/Wizard Tower
+=======
+<<<<<<< HEAD
+  - Assets/Scenes
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: /home/ryan/Projects/Unity/Wizard Tower
+=======
+<<<<<<< HEAD
+  - Assets/Scenes
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: /home/ryan/Projects/Unity/Wizard Tower
+=======
+  - Assets/Scripts
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: /home/ryan/Projects/Unity/Wizard Tower Old
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 70}
+<<<<<<< HEAD
     m_SelectedIDs: 28610000
     m_LastClickedID: 24872
     m_ExpandedIDs: 00000000b660000000ca9a3bffffff7f
+=======
+<<<<<<< HEAD
+    m_SelectedIDs: 28610000
+    m_LastClickedID: 24872
+    m_ExpandedIDs: 00000000b660000000ca9a3bffffff7f
+=======
+<<<<<<< HEAD
+    m_SelectedIDs: 28610000
+    m_LastClickedID: 24872
+    m_ExpandedIDs: 00000000b660000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 3a610000
+    m_LastClickedID: 24890
+    m_ExpandedIDs: 000000008c60000000ca9a3bffffff7f
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +622,19 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000b6600000
+=======
+<<<<<<< HEAD
+    m_ExpandedIDs: 00000000b6600000
+=======
+<<<<<<< HEAD
+    m_ExpandedIDs: 00000000b6600000
+=======
+    m_ExpandedIDs: 000000008c600000
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -436,10 +710,29 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     x: 3386
     y: 57
     width: 453
     height: 771
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+    x: 1467
+    y: 19
+    width: 453
+    height: 924
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -477,10 +770,29 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     x: 1920
     y: 57
     width: 360
     height: 447
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+    x: 0
+    y: 19
+    width: 359
+    height: 537
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -488,9 +800,27 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 56f5ffff68f9ffff1efaffff2cfbffff
+=======
+<<<<<<< HEAD
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 56f5ffff68f9ffff1efaffff2cfbffff
+=======
+<<<<<<< HEAD
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 56f5ffff68f9ffff1efaffff2cfbffff
+=======
+      m_SelectedIDs: 400e0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 18fbffff
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -534,10 +864,29 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     x: 2281
     y: 57
     width: 1103
     height: 447
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+    x: 360
+    y: 57
+    width: 1104
+    height: 537
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -794,9 +1143,27 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 518.98016, y: 245.20375, z: -3.3825605}
     speed: 2
     m_Value: {x: 518.98016, y: 245.20375, z: -3.3825605}
+=======
+<<<<<<< HEAD
+    m_Target: {x: 518.98016, y: 245.20375, z: -3.3825605}
+    speed: 2
+    m_Value: {x: 518.98016, y: 245.20375, z: -3.3825605}
+=======
+<<<<<<< HEAD
+    m_Target: {x: 518.98016, y: 245.20375, z: -3.3825605}
+    speed: 2
+    m_Value: {x: 518.98016, y: 245.20375, z: -3.3825605}
+=======
+    m_Target: {x: 519.17474, y: 245.11986, z: -3.3879085}
+    speed: 2
+    m_Value: {x: 519.17474, y: 245.11986, z: -3.3879085}
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -847,9 +1214,27 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 332.75842
     speed: 2
     m_Value: 332.75842
+=======
+<<<<<<< HEAD
+    m_Target: 332.75842
+    speed: 2
+    m_Value: 332.75842
+=======
+<<<<<<< HEAD
+    m_Target: 332.75842
+    speed: 2
+    m_Value: 332.75842
+=======
+    m_Target: 333.2932
+    speed: 2
+    m_Value: 333.2932
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -894,9 +1279,27 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 2281
     y: 57
     width: 1103
+=======
+<<<<<<< HEAD
+    x: 2281
+    y: 57
+    width: 1103
+=======
+<<<<<<< HEAD
+    x: 2281
+    y: 57
+    width: 1103
+=======
+    x: 361
+    y: 19
+    width: 1104
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     height: 537
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -908,7 +1311,19 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
   m_TargetSize: {x: 1103, y: 516}
+=======
+<<<<<<< HEAD
+  m_TargetSize: {x: 1103, y: 516}
+=======
+<<<<<<< HEAD
+  m_TargetSize: {x: 1103, y: 516}
+=======
+  m_TargetSize: {x: 1104, y: 516}
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -923,8 +1338,23 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -551.5
     m_HBaseRangeMax: 551.5
+=======
+<<<<<<< HEAD
+    m_HBaseRangeMin: -551.5
+    m_HBaseRangeMax: 551.5
+=======
+<<<<<<< HEAD
+    m_HBaseRangeMin: -551.5
+    m_HBaseRangeMax: 551.5
+=======
+    m_HBaseRangeMin: -552
+    m_HBaseRangeMax: 552
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     m_VBaseRangeMin: -258
     m_VBaseRangeMax: 258
     m_HAllowExceedBaseRangeMin: 1
@@ -935,7 +1365,19 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
+<<<<<<< HEAD
     m_EnableMouseInput: 0
+=======
+<<<<<<< HEAD
+    m_EnableMouseInput: 0
+=======
+<<<<<<< HEAD
+    m_EnableMouseInput: 0
+=======
+    m_EnableMouseInput: 1
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -944,16 +1386,42 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
       width: 1103
       height: 516
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 551.5, y: 258}
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+      width: 1104
+      height: 516
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 552, y: 258}
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
       x: -551.5
       y: -258
       width: 1103
@@ -961,6 +1429,21 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1103, y: 537}
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+      x: -552
+      y: -258
+      width: 1104
+      height: 516
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1104, y: 537}
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -986,7 +1469,19 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1920
+=======
+<<<<<<< HEAD
+    x: 1920
+=======
+<<<<<<< HEAD
+    x: 1920
+=======
+    x: 0
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
     y: 615
     width: 1465
     height: 366

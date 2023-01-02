@@ -1,11 +1,31 @@
 {
   "dependencies": {
     "com.unity.2d.animation": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
       "version": "7.0.8",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.2d.common": "6.0.5",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+      "version": "7.0.9",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.2d.common": "6.0.6",
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.modules.animation": "1.0.0",
         "com.unity.modules.uielements": "1.0.0"
@@ -13,7 +33,19 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.common": {
+<<<<<<< HEAD
       "version": "6.0.5",
+=======
+<<<<<<< HEAD
+      "version": "6.0.5",
+=======
+<<<<<<< HEAD
+      "version": "6.0.5",
+=======
+      "version": "6.0.6",
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
       "depth": 2,
       "source": "registry",
       "dependencies": {
@@ -32,7 +64,19 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.pixel-perfect": {
+<<<<<<< HEAD
       "version": "5.0.1",
+=======
+<<<<<<< HEAD
+      "version": "5.0.1",
+=======
+<<<<<<< HEAD
+      "version": "5.0.1",
+=======
+      "version": "5.0.3",
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
       "depth": 1,
       "source": "registry",
       "dependencies": {},
@@ -95,7 +139,19 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
+<<<<<<< HEAD
       "version": "1.17.2",
+=======
+<<<<<<< HEAD
+      "version": "1.17.2",
+=======
+<<<<<<< HEAD
+      "version": "1.17.2",
+=======
+      "version": "1.17.7",
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -115,8 +171,23 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
+<<<<<<< HEAD
         "com.unity.2d.animation": "7.0.8",
         "com.unity.2d.pixel-perfect": "5.0.1",
+=======
+<<<<<<< HEAD
+        "com.unity.2d.animation": "7.0.8",
+        "com.unity.2d.pixel-perfect": "5.0.1",
+=======
+<<<<<<< HEAD
+        "com.unity.2d.animation": "7.0.8",
+        "com.unity.2d.pixel-perfect": "5.0.1",
+=======
+        "com.unity.2d.animation": "7.0.9",
+        "com.unity.2d.pixel-perfect": "5.0.3",
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
         "com.unity.2d.psdimporter": "6.0.6",
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.2d.spriteshape": "7.0.6",
@@ -125,7 +196,19 @@
       }
     },
     "com.unity.ide.rider": {
+<<<<<<< HEAD
       "version": "3.0.15",
+=======
+<<<<<<< HEAD
+      "version": "3.0.15",
+=======
+<<<<<<< HEAD
+      "version": "3.0.15",
+=======
+      "version": "3.0.16",
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -164,7 +247,19 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {
+<<<<<<< HEAD
       "version": "1.4.3",
+=======
+<<<<<<< HEAD
+      "version": "1.4.3",
+=======
+<<<<<<< HEAD
+      "version": "1.4.3",
+=======
+      "version": "1.6.0",
+>>>>>>> c966bb4 (feat: Basic game)
+>>>>>>> a13b961 (feat: Basic game)
+>>>>>>> 1c0b68a (feat: Basic game)
       "depth": 1,
       "source": "registry",
       "dependencies": {
