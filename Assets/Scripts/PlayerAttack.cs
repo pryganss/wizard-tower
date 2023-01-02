@@ -10,11 +10,13 @@ public class PlayerAttack : MonoBehaviour
     private GameObject bullet;
     [SerializeField]
     private Transform bulletTransform;
-    [SerializeField]
     private bool canFire;
     private float timer;
     [SerializeField]
     private float fireRate;
+    [SerializeField]
+    private float bufferTime;
+    private float bufferCounter;
 
     
     // Start is called before the first frame update
@@ -32,7 +34,6 @@ public class PlayerAttack : MonoBehaviour
 	Vector3 rotation = mousePos - transform.position;
 
 	float rotZ = Mathf.Atan2(rotation.y, rotation.x) * Mathf.Rad2Deg;
-
 	transform.rotation = Quaternion.Euler(0, 0, rotZ);
 
 	if(!canFire)
@@ -41,10 +42,16 @@ public class PlayerAttack : MonoBehaviour
 	    if (timer > fireRate) { canFire = true; timer = 0; }
 	}
 
-	if (Input.GetMouseButtonDown(0) && canFire)
+	if (Input.GetMouseButtonDown(0))
+	{
+	    bufferCounter = bufferTime;
+	} else bufferCounter -= Time.deltaTime;
+
+	if ((bufferCounter > 0 ) && canFire)
 	{
 	    canFire = false;
 	    Instantiate(bullet, bulletTransform.position, Quaternion.identity);
+	    bufferCounter = 0f;
 	}
     }
 }

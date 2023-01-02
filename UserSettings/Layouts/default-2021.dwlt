@@ -24,8 +24,9 @@ MonoBehaviour:
     x: 1920
     y: 0
     width: 1920
-    height: 842
+    height: 995
   m_ShowMode: 4
+<<<<<<< Updated upstream
   m_Title: Game
 <<<<<<< HEAD
 =======
@@ -39,8 +40,17 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Project
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+  m_Title: Inspector
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -65,6 +75,7 @@ MonoBehaviour:
     x: 0
     y: 30
     width: 1920
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -88,8 +99,21 @@ MonoBehaviour:
   vertical: 0
   controlID: 16
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    height: 945
+  m_MinSize: {x: 300, y: 200}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 45
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -105,8 +129,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1466
+    x: 1398
     y: 0
+<<<<<<< Updated upstream
     width: 454
 <<<<<<< HEAD
     height: 792
@@ -127,8 +152,20 @@ MonoBehaviour:
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    width: 522
+    height: 945
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -151,6 +188,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     width: 361
     height: 468
@@ -166,8 +204,18 @@ MonoBehaviour:
     width: 360
     height: 558
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    width: 341
+    height: 558
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -191,6 +239,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     y: 468
     width: 1466
@@ -210,8 +259,19 @@ MonoBehaviour:
     width: 1466
     height: 387
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    y: 558
+    width: 1398
+    height: 387
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 12}
@@ -241,6 +301,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1920
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     height: 842
 =======
@@ -252,8 +313,17 @@ MonoBehaviour:
 =======
     height: 995
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    height: 995
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -298,6 +368,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     y: 822
 =======
@@ -309,8 +380,17 @@ MonoBehaviour:
 =======
     y: 975
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    y: 975
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
     width: 1920
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -334,6 +414,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
     width: 1466
 <<<<<<< HEAD
 =======
@@ -358,8 +439,22 @@ MonoBehaviour:
   vertical: 1
   controlID: 17
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    width: 1398
+    height: 945
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 16192, y: 16192}
+  vertical: 1
+  controlID: 46
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -379,6 +474,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
     width: 1466
 <<<<<<< HEAD
 =======
@@ -403,8 +499,22 @@ MonoBehaviour:
   vertical: 0
   controlID: 18
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    width: 1398
+    height: 558
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 47
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -432,6 +542,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -440,9 +551,12 @@ MonoBehaviour:
 >>>>>>> a13b961 (feat: Basic game)
 >>>>>>> 1c0b68a (feat: Basic game)
     x: 361
+=======
+    x: 341
+>>>>>>> Stashed changes
     y: 0
-    width: 1105
-    height: 468
+    width: 1057
+    height: 558
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
@@ -499,6 +613,7 @@ MonoBehaviour:
 >>>>>>> a13b961 (feat: Basic game)
 >>>>>>> 1c0b68a (feat: Basic game)
     x: 1920
+<<<<<<< Updated upstream
     y: 525
     width: 1465
     height: 303
@@ -512,8 +627,19 @@ MonoBehaviour:
     width: 1465
     height: 366
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    y: 615
+    width: 1397
+    height: 366
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -573,6 +699,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< Updated upstream
     scrollPos: {x: 0, y: 70}
 <<<<<<< HEAD
     m_SelectedIDs: 28610000
@@ -593,8 +720,20 @@ MonoBehaviour:
     m_LastClickedID: 24890
     m_ExpandedIDs: 000000008c60000000ca9a3bffffff7f
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 10610000
+    m_LastClickedID: 24848
+    m_ExpandedIDs: 00000000f660000000ca9a3bffffff7f
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -622,6 +761,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_ExpandedIDs: 00000000b6600000
 =======
@@ -633,8 +773,17 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 000000008c600000
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    m_ExpandedIDs: 00000000f6600000
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -710,6 +859,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -731,8 +881,20 @@ MonoBehaviour:
     width: 453
     height: 924
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    x: 3318
+    y: 57
+    width: 521
+    height: 924
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -779,6 +941,7 @@ MonoBehaviour:
 >>>>>>> 1c0b68a (feat: Basic game)
     x: 1920
     y: 57
+<<<<<<< Updated upstream
     width: 360
     height: 447
 <<<<<<< HEAD
@@ -791,8 +954,18 @@ MonoBehaviour:
     width: 359
     height: 537
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    width: 340
+    height: 537
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -803,6 +976,7 @@ MonoBehaviour:
 <<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< Updated upstream
       m_ExpandedIDs: 56f5ffff68f9ffff1efaffff2cfbffff
 =======
 <<<<<<< HEAD
@@ -819,8 +993,17 @@ MonoBehaviour:
       m_LastClickedID: 0
       m_ExpandedIDs: 18fbffff
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+      m_ExpandedIDs: 60eeffffaceeffff12f0ffff18f0ffff1cf0ffff20f0ffff3cf0ffff44f0ffff2cfbffff6e610000
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -864,6 +1047,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -885,8 +1069,20 @@ MonoBehaviour:
     width: 1104
     height: 537
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    x: 2261
+    y: 57
+    width: 1055
+    height: 537
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -1143,6 +1339,7 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_Target: {x: 518.98016, y: 245.20375, z: -3.3825605}
     speed: 2
@@ -1162,8 +1359,19 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 519.17474, y: 245.11986, z: -3.3879085}
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    m_Target: {x: 281.77887, y: 232.90367, z: -5.355555}
+    speed: 2
+    m_Value: {x: 281.77887, y: 232.90367, z: -5.355555}
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1214,6 +1422,7 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_Target: 332.75842
     speed: 2
@@ -1233,8 +1442,19 @@ MonoBehaviour:
     speed: 2
     m_Value: 333.2932
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    m_Target: 427.15262
+    speed: 2
+    m_Value: 427.15262
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1279,6 +1499,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     x: 2281
     y: 57
@@ -1298,8 +1519,19 @@ MonoBehaviour:
     y: 19
     width: 1104
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    x: 341
+    y: 57
+    width: 1055
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
     height: 537
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -1311,6 +1543,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   m_TargetSize: {x: 1103, y: 516}
 =======
@@ -1322,8 +1555,17 @@ MonoBehaviour:
 =======
   m_TargetSize: {x: 1104, y: 516}
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+  m_TargetSize: {x: 1055, y: 516}
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1338,6 +1580,7 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_HBaseRangeMin: -551.5
     m_HBaseRangeMax: 551.5
@@ -1353,8 +1596,18 @@ MonoBehaviour:
     m_HBaseRangeMin: -552
     m_HBaseRangeMax: 552
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    m_HBaseRangeMin: -527.5
+    m_HBaseRangeMax: 527.5
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
     m_VBaseRangeMin: -258
     m_VBaseRangeMax: 258
     m_HAllowExceedBaseRangeMin: 1
@@ -1386,6 +1639,7 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -1407,14 +1661,27 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 552, y: 258}
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+      width: 1055
+      height: 516
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 527.5, y: 258}
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -1423,11 +1690,15 @@ MonoBehaviour:
 >>>>>>> a13b961 (feat: Basic game)
 >>>>>>> 1c0b68a (feat: Basic game)
       x: -551.5
+=======
+      x: -527.5
+>>>>>>> Stashed changes
       y: -258
-      width: 1103
+      width: 1055
       height: 516
     m_MinimalGUI: 1
   m_defaultScale: 1
+<<<<<<< Updated upstream
   m_LastWindowPixelSize: {x: 1103, y: 537}
 <<<<<<< HEAD
 =======
@@ -1442,8 +1713,17 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1104, y: 537}
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+  m_LastWindowPixelSize: {x: 1055, y: 537}
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -1469,6 +1749,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     x: 1920
 =======
@@ -1480,10 +1761,19 @@ MonoBehaviour:
 =======
     x: 0
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    x: 0
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
     y: 615
-    width: 1465
+    width: 1397
     height: 366
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:

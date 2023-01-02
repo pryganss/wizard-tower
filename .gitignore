@@ -58,5 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+<<<<<<< Updated upstream
 /ProjectSettings/BurstAotSettings_StandaloneWindows.json
+=======
+/build-windows/Wizard Tower/MonoBleedingEdge/etc/mono/2.0/settings.map
+/Build-old/
+>>>>>>> Stashed changes
 /build-windows/

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.2d": "1.0.0",
@@ -19,8 +20,19 @@
     "com.unity.feature.2d": "1.0.0",
     "com.unity.ide.rider": "3.0.16",
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+    "com.unity.collab-proxy": "1.17.7",
+    "com.unity.feature.2d": "1.0.0",
+    "com.unity.ide.rider": "3.0.16",
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
     "com.unity.ide.visualstudio": "2.0.16",
     "com.unity.ide.vscode": "1.2.5",
     "com.unity.test-framework": "1.1.31",

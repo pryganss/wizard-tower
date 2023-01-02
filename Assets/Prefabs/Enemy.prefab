@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8498323635919277206}
   - component: {fileID: 8498323635919277205}
   - component: {fileID: -2946712030670534256}
+  - component: {fileID: -2598557309575471209}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemy
@@ -76,7 +77,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 2747690628134850419, guid: b670ab75dde984907b8570040daa08c5, type: 3}
+  m_Sprite: {fileID: 259069813, guid: bd1489ccb6fd6e313a6c4dc3c42bfdd0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -100,18 +101,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.76}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 0.8828125}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 1.6, y: 1.6}
     newSize: {x: 1, y: 0.8828125}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.49300432, y: 0.8828125}
+  m_Size: {x: 1.45, y: 1.17}
   m_EdgeRadius: 0
 --- !u!114 &8498323635919277205
 MonoBehaviour:
@@ -148,6 +149,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   m_Constraints: 0
 =======
@@ -159,5 +161,34 @@ Rigidbody2D:
 =======
   m_Constraints: 4
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+  m_Constraints: 4
+--- !u!95 &-2598557309575471209
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8498323635919277201}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5f2bce2e5945008f0a61a0554b5022e1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)

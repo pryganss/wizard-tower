@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4280170652553902617}
   - component: {fileID: -7123272611427710062}
   - component: {fileID: -8755308791313395900}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: Coin
   m_TagString: Coin
   m_Icon: {fileID: 0}
@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 245888827351130637}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4.758, y: 0.748, z: 0}
-  m_LocalScale: {x: 0.2959, y: 0.2959, z: 0.2959}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: -187777097
   m_SortingLayer: -1
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 05fda41ca5b4db16f8d1ee5ef86dc1db, type: 3}
   m_Color: {r: 1, g: 0.8224498, b: 0.042452812, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -121,7 +121,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 7
 --- !u!58 &-8755308791313395900
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -137,4 +137,4 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.36

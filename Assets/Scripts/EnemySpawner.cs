@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
 {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -13,13 +14,14 @@ public class EnemySpawner : MonoBehaviour
 >>>>>>> 1c0b68a (feat: Basic game)
     public float spawnInterval = 0f;
 
+=======
+>>>>>>> Stashed changes
     [SerializeField]
     private GameObject enemyPrefab;
-    [SerializeField]
-    private Transform spawnerLocation;
     
     void OnEnable()
     {
+<<<<<<< Updated upstream
         StartCoroutine(spawnEnemy(spawnInterval, enemyPrefab, spawnerLocation.position));
     }
 
@@ -40,7 +42,16 @@ public class EnemySpawner : MonoBehaviour
     {
 	Instantiate(enemyPrefab, transform.position, Quaternion.identity);
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+	Instantiate(enemyPrefab, transform.position, Quaternion.identity);
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
     }
 }

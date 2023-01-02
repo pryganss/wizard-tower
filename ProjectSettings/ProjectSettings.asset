@@ -269,15 +269,24 @@ PlayerSettings:
   AndroidMinifyDebug: 0
   AndroidValidateAppBundleSize: 1
   AndroidAppBundleSizeToValidate: 150
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   m_BuildTargetIcons: []
 =======
 <<<<<<< HEAD
-  m_BuildTargetIcons: []
-=======
 <<<<<<< HEAD
   m_BuildTargetIcons: []
 =======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_BuildTargetIcons: []
+=======
+=======
+=======
+=======
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_BuildTargetIcons:
   - m_BuildTarget: Standalone
     m_Icons:
@@ -321,9 +330,18 @@ PlayerSettings:
       m_Width: 16
       m_Height: 16
       m_Kind: 0
+<<<<<<< Updated upstream
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   m_BuildTargetPlatformIcons: []
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
@@ -527,6 +545,7 @@ PlayerSettings:
   switchNetworkInterfaceManagerInitializeEnabled: 1
   switchPlayerConnectionEnabled: 1
   switchUseNewStyleFilepaths: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -535,8 +554,17 @@ PlayerSettings:
 =======
   switchUseLegacyFmodPriorities: 1
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+  switchUseLegacyFmodPriorities: 1
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   switchUseMicroSleepForYield: 1
   switchEnableRamDiskSupport: 0
   switchMicroSleepForYieldTime: 25
@@ -636,6 +664,7 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -644,8 +673,17 @@ PlayerSettings:
 =======
   webGLPowerPreference: 2
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+  webGLPowerPreference: 2
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   scriptingDefineSymbols: {}
   additionalCompilerArguments: {}
   platformArchitecture: {}
@@ -657,6 +695,7 @@ PlayerSettings:
   allowUnsafeCode: 0
   useDeterministicCompilation: 1
   enableRoslynAnalyzers: 1
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -665,8 +704,17 @@ PlayerSettings:
 =======
   selectedPlatform: 0
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+  selectedPlatform: 0
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
   gcIncremental: 1
@@ -744,6 +792,7 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -752,8 +801,17 @@ PlayerSettings:
 =======
   windowsGamepadBackendHint: 0
 >>>>>>> c966bb4 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> a13b961 (feat: Basic game)
+<<<<<<< HEAD
 >>>>>>> 1c0b68a (feat: Basic game)
+=======
+=======
+=======
+  windowsGamepadBackendHint: 0
+>>>>>>> Stashed changes
+>>>>>>> 579f106 (feat: Final Game)
+>>>>>>> c663221 (feat: Final Game)
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
